@@ -7,6 +7,15 @@
 /dataSources/
 /dataSources.local.xml
 
+# Ignore PyCharm configuration files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore compiled Python bytecode files
+*.pyc
+
 # Байт-код, оптимизированные / DLL-файлы
 __pycache__/
 *.py[cod]
