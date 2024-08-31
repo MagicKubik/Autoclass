@@ -1,0 +1,31 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Байт-код, оптимизированные / DLL-файлы
+__pycache__/
+*.py[cod]
+
+# Файлы конфигурации для venv
+venv/
+.env
+
+# Файлы дистрибутивов и артефакты упаковки
+dist/
+*.egg-info/
+
+# Файлы покрытия, кэши и прочие ненужные файлы
+.coverage
+*.py,cover
+.cache/
+
+# Файлы *.py,cover не несут никакого смысла
+*.py,cover
+
+# Контрольные точки в Jupyter notebook лучше оставить в стороне
+.ipynb_checkpoints
