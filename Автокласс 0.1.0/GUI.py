@@ -188,9 +188,3 @@ class TestPage(TitlePage):
 
     def start(self):
         self.window.mainloop()
-
-
-# test = TitlePage()
-# test.start()
-# print(TitlePage().USER_TASKS)
-# print(TitlePage().USER_NAME)

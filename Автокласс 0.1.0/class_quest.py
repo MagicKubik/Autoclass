@@ -57,19 +57,3 @@ class Quest:
             base_path = os.path.abspath(".")
 
         return os.path.join(str(base_path), str(relative_path))
-
-
-
-
-# q = Quest()
-# data = q.get_task(1)[1]
-# print(data)
-
-# joined_data = ' '.join(data)
-#
-# pattern = r"'.*?'"
-# matches = re.findall(pattern, joined_data)
-#
-# cleaned_results = [match.strip() for match in matches]
-#
-# print(cleaned_results)
