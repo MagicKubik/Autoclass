@@ -1,3 +1,3 @@
 ## Архитектура классов и передачи данных
 
-![архитектура](.github/архитектура.png "архитектура")
+![architecture](.github/architecture.png "architecture")
